@@ -24,6 +24,11 @@ The dataset used in this analysis contains records of customer interactions, inc
 - Handled missing data and inconsistencies
 - Extracted relevant features for analysis
 
+![Dashboard](Dashboard_Image.PNG)
+
+![Dashaboard_Image](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/fa59d23a-f5bf-4943-951c-17d7c6c4eada)
+
+
 
 
 
