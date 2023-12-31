@@ -4,6 +4,18 @@
 ---
 This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characteristics, marketing interactions and purchase decisions.
 
+### ASK
+---
+This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
+
+Three questions will guide the future marketing program:
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+
+
 ### Objectives
 ---
 - Analyze customer data to understand factors influencing bike purchases.
