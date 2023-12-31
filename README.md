@@ -36,6 +36,7 @@ Involves collecting data and information and ensuring it satisfies necessary par
 
 #### Data Location, Licensing, and Privacy
 The data has been made available on Github at this [link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) under this [license](). 
+
 For privacy purposes, the rider’s personally identifiable information has been excluded from the data.
 
 
