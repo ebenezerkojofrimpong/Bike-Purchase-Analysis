@@ -39,6 +39,8 @@ The data has been made available on Github at this [link](https://github.com/Ale
 
 For privacy purposes, the rider’s personally identifiable information has been excluded from the data.
 
+#### Data Organization
+The data used for this analysis is the past 12 months from November 2020 to October 2021. Each month contains hundreds of thousands of rows and 13 columns.
 
 
 
