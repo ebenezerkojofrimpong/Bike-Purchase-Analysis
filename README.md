@@ -30,6 +30,14 @@ Identify and understand the key factors influencing bike purchases to optimize m
   
 - **Executive Team**: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 
+### **PREPARE**
+---
+Involves collecting data and information and ensuring it satisfies necessary parameters.
+
+#### Data Location, Licensing, and Privacy
+The data has been made available on Github at this link under this license. For privacy purposes, the rider’s personally identifiable information has been excluded from the data.
+
+
 
 
 
