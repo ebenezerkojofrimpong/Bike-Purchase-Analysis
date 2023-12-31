@@ -2,7 +2,7 @@
 
 ### Project Overview
 ---
-This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characteristics, marketing interactions and purchase decisions.
+This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characterists and purchase decisions.
 
 ### **ASK**
 ---
