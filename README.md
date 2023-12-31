@@ -4,7 +4,7 @@
 ---
 This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characteristics, marketing interactions and purchase decisions.
 
-### ASK
+### **ASK**
 ---
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
@@ -21,6 +21,14 @@ Three questions will guide the future marketing program:
    - Is there a correlation between the length of the customer commute and the likelihood of making a bike purchase?
      
    - Do customers with shorter commutes show a higher tendency to purchase bikes compared to those with longer commutes?
+
+#### Business Task
+Identify and understand the key factors influencing bike purchases to optimize marketing strategies.
+
+#### Key Stakeholders
+- **Marketting Analytics Team**: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
+  
+- **Executive Team**: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 
 
 
