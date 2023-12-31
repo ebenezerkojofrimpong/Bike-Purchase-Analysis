@@ -16,8 +16,13 @@ Three questions will guide the future marketing program:
   
     - Analyze if certain demographics are more inclined to make bike purchases and if there are specific preferences within different demographic segments.
   
-3. Why would casual riders buy Cyclistic annual memberships?
-4. How can Cyclistic use digital media to influence casual riders to become members?
+3. How Does Customer Commute Distance Impact Bike Purchase Decisions?
+
+   - Is there a correlation between the length of the customer commute and the likelihood of making a bike purchase?
+     
+   - Do customers with shorter commutes show a higher tendency to purchase bikes compared to those with longer commutes?
+
+
 
 
 
