@@ -4,6 +4,7 @@
 ---
 This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characterists and purchase decisions.
 
+
 ### **ASK**
 ---
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
@@ -29,6 +30,7 @@ Identify and understand the key factors influencing bike purchases to optimize m
 - **Marketting Analytics Team**: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
   
 - **Executive Team**: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
+  
 
 ### **PREPARE**
 ---
