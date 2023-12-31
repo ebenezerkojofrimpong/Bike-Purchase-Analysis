@@ -10,9 +10,14 @@ This phase involves defining the issue to be solved, identifying stakeholders an
 
 Three questions will guide the future marketing program:
 
-1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+1. What Demographic Factors Influence Bike Purchases?
+   
+    - Explore the relationship between age, gender, and income levels of customers and their likelihood to purchase a bike.
+  
+    - Analyze if certain demographics are more inclined to make bike purchases and if there are specific preferences within different demographic segments.
+  
+3. Why would casual riders buy Cyclistic annual memberships?
+4. How can Cyclistic use digital media to influence casual riders to become members?
 
 
 
