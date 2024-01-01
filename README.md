@@ -78,7 +78,9 @@ Excel was used for the data analysis phase of this project.
 
 Outlined below are the key takeaways derived from the analysis of the data:
 
+![Average Of Income Per Gender Segmented by Purchased Bike](Average_Of_Income.PNG)
 
+![Average_Of_Income_Per_Gender](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/5dccff4d-0529-4eb8-8af0-cbf3ef98d48b)
 
 
 
