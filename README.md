@@ -36,6 +36,8 @@ Identify and understand the key factors influencing bike purchases to optimize m
 ---
 Involves collecting data and information and ensuring it satisfies necessary parameters.
 
+Exel was used for the data processing phase of this project.
+
 #### Data Location, Licensing, and Privacy
 The data has been made available on Github at this [link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) under this [license](). 
 
