@@ -36,8 +36,6 @@ Identify and understand the key factors influencing bike purchases to optimize m
 ---
 Involves collecting data and information and ensuring it satisfies necessary parameters.
 
-Exel was used for the data processing phase of this project.
-
 #### Data Location, Licensing, and Privacy
 The data has been made available on Github at this [link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) under this [license](). 
 
@@ -54,9 +52,31 @@ The dataset contained one null value that was deleted and hence not used in the 
 
 
 ### PROCESS
+---
 This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
 
+Exel was used for the data processing phase of this project.
 
+A summary of the cleaning and manipulation done to the data is presented below:
+
+#### Changes
+1. Found and removed one blank row (Used Conditional formatting, countblank function and Find&Select tool on the menu bar for this task).
+2. Checked and verified the length of characters in the Ride_id column (Used the Len() function for this task).
+4. Trimed Coumns to remove whitespaces and replaced entire columns by pasting only values (Use Trim() function for this task).
+
+#### New
+1. Created a new column to calculate ride_length (ended_at - started_at) and changed datatype to Time datatype.
+2. Created a new column to extract day_of_week (1 = Sunday and 7 = Saturday) and changed datatype to General (Used the weekday() function for this task).
+3. Created a new column to extract the date start_date from date-time datatype (Used the int() function for this task).
+
+
+### **ANALYZE**
+---
+In this phase we analyze the data using statistical methods to find patterns, relationships, and trends.
+
+Excel was used for the data analysis phase of this project.
+
+Outlined below are the key takeaways derived from the analysis of the data:
 
 
 
