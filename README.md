@@ -44,7 +44,11 @@ For privacy purposes, the rider’s personally identifiable information has been
 #### Data Organization
 The data used for this analysis is the past 12 months from November 2020 to October 2021. Each month contains hundreds of thousands of rows and 13 columns.
 
+#### Bias and Credibility
+The data satisfies the ROCCC standard which means that it is reliable, original, comprehensive, current, and cited.
 
+#### Data Limitations
+The dataset contains some null values that were deleted and hence not used in the analysis.
 
 
 
