@@ -48,7 +48,16 @@ The data used for this analysis is the past 12 months from November 2020 to Octo
 The data satisfies the ROCCC standard which means that it is reliable, original, comprehensive, current, and cited.
 
 #### Data Limitations
-The dataset contains some null values that were deleted and hence not used in the analysis.
+The dataset contained one null value that was deleted and hence not used in the analysis.
+
+
+### PROCESS
+This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
+
+
+
+
+
 
 
 
