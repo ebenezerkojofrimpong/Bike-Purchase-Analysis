@@ -1,6 +1,6 @@
 # Understanding Factors Influencing Bike Purchases
 
-### Project Overview
+## Project Overview
 ---
 This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characterists and purchase decisions.
 
@@ -10,7 +10,9 @@ The Google Data Analytics Profesional Certificate uses a methodology for data an
   
 We will resolve this case following this method.
 
-### **ASK**
+--
+
+## **ASK**
 ---
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
@@ -28,35 +30,38 @@ Three questions will guide the future marketing program:
      
    - Do customers with shorter commutes show a higher tendency to purchase bikes compared to those with longer commutes?
 
-#### Business Task
+### Business Task
 Identify and understand the key factors influencing bike purchases to optimize marketing strategies.
 
-#### Key Stakeholders
+### Key Stakeholders
 - **Marketting Analytics Team**: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
   
 - **Executive Team**: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
-  
 
-### **PREPARE**
+--
+
+
+## **PREPARE**
 ---
 Involves collecting data and information and ensuring it satisfies necessary parameters.
 
-#### Data Location, Licensing, and Privacy
+### Data Location, Licensing, and Privacy
 The data has been made available on Github at this [link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx) under this [license](). 
 
 For privacy purposes, the rider’s personally identifiable information has been excluded from the data.
 
-#### Data Organization
+### Data Organization
 The data used for this analysis is a bike purchase dataset which contains 13 Columns and 1027 Rows.
 
-#### Bias and Credibility
+### Bias and Credibility
 The data satisfies the ROCCC standard which means that it is reliable, original, comprehensive, current, and cited.
 
-#### Data Limitations
+### Data Limitations
 The dataset contained one null value that was deleted and hence not used in the analysis.
 
+--
 
-### PROCESS
+## PROCESS
 ---
 This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
 
@@ -64,18 +69,19 @@ Exel was used for the data processing phase of this project.
 
 A summary of the cleaning and manipulation done to the data is presented below:
 
-#### Changes
+### Changes
 1. Found and removed one blank row (Used Conditional formatting, countblank function and Find&Select tool on the menu bar for this task).
 2. Checked and verified the length of characters in the Ride_id column (Used the Len() function for this task).
 4. Trimed Coumns to remove whitespaces and replaced entire columns by pasting only values (Use Trim() function for this task).
 
-#### New
+### New
 1. Created a new column to calculate ride_length (ended_at - started_at) and changed datatype to Time datatype.
 2. Created a new column to extract day_of_week (1 = Sunday and 7 = Saturday) and changed datatype to General (Used the weekday() function for this task).
 3. Created a new column to extract the date start_date from date-time datatype (Used the int() function for this task).
 
+--
 
-### **ANALYZE**
+## **ANALYZE**
 ---
 In this phase we analyze the data using statistical methods to find patterns, relationships, and trends.
 
@@ -114,16 +120,16 @@ Excel was used for the data analysis phase of this project.
 
 ---
 
-### **SHARE**
+## **SHARE**
 ---
 The outcomes are effectively communicated with pertinent stakeholders. The execution stage of this project was carried out utilizing Excel for analysis for crafting insightful visual representations.
 
 Dashboards created with visualizations also present relevant information at a glance.
       ![](Bike_Sales_Dashboard.PNG)
+---
 
 
-
-### **ACT**
+## **ACT**
 ---
 Upon completion of data processing, analysis, and insight dissemination, the conclusive phase involves formulating a well-aligned course of action for the bike-share enterprise, congruent with its business goals and mission. My recommendations are as follows:
 
@@ -140,11 +146,11 @@ Based on the finding that upper income bracket women have 5.1% higher average ea
 The data indicates short commutes already strongly prefer cycling, while long distances over 10 miles pose inherent biking adoption challenges. However, the 2-5 mile bracket appears to have untapped potential if bicycling can be made more feasible through strategic partnerships.
 
 
-### **CONCLUSION**
+## **CONCLUSION**
 Throughout the duration of this project, I have effectively utilized Excel to carry out tasks such as data cleansing, processing, analysis, and data visualization. These efforts have enabled me to extract valuable insights from the data in alignment with the principles of the Google Data Analytics Certification program.
     
 
-### REFERENCES
+## REFERENCES
 
 Sagnik Chand: Google Data Analytics Capstone Project- Cyclistic Bike-share Case Study [LINK](https://medium.com/@lesagnik/google-data-analytics-capstone-project-cyclistic-bike-share-case-study-d01df70748b)
       
