@@ -80,6 +80,9 @@ Outlined below are the key takeaways derived from the analysis of the data:
 
 1. The chart shows that across all income levels, more men than women were buying bikes.
 2. Average income of males surpass that of females.
+3. People with higer income both Males and Females, were likely to purchase a bike.
+4. Females who earned an average income of over $55k were likely to purchase a bike.
+5. Males who earned an average income of over $56k were likely to purchase a bike.
     
 ![Average Of Income Per Gender Segmented by Purchased Bike](Average_Of_Income.PNG)
 
