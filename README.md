@@ -95,13 +95,11 @@ Excel was used for the data analysis phase of this project.
 
 ---
 
-3. Adolescents have low bike purchase rate
-4. There is a high peak in bike purchases for middle age
-5. The old aged have low bike purchase rate
+3. The data indicates a low bike purchase rate among adolescents. A significant peak in bike purchases is observed for the middle-aged demographic. In contrast, older individuals exhibit a low bike purchase rate. Overall, there is a distinct age-related pattern, with middle-aged individuals showing the highest propensity for bike purchases compared to adolescents and the elderly.
 
- ![](Customer_Age_Brackets)
- 
-![Customer_Age_Brackets](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/765278be-9460-4373-8bd8-84cdf6625108)
+      ![](Customer_Age_Brackets)
+
+      ![Customer_Age_Brackets](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/765278be-9460-4373-8bd8-84cdf6625108)
 
 
 
