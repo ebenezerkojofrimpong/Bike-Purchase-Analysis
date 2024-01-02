@@ -110,38 +110,26 @@ Excel was used for the data analysis phase of this project.
 
       ![Average_Income_Distribution](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/8c824786-9c75-490a-88be-8ad122c003f2)
 
-
-
-
-
-
-
-
-
-
-### Objectives
 ---
-- Analyze customer data to understand factors influencing bike purchases.
-- Identify key features contributing to bike purchases.
-- Provide actionable insights for improving marketting strategies.
 
-### Data Collection
+### **SHARE**
 ---
-The dataset used in this analysis contains records of customer interactions, including details about marketting touchpoints and whether a customer made abike purchase.
+The outcomes are effectively communicated with pertinent stakeholders. The execution stage of this project was carried out utilizing Excel for analysis for crafting insightful visual representations.
 
-### Data Sources
----
-- **Customer Characteristics**: Demographics, Preferences
-- **Purchases Decision**: Yes, No
-
-### Data Preprocessing
----
-- Handled missing data and inconsistencies
-- Extracted relevant features for analysis
+Dashboards created with visualizations also present relevant information at a glance.
 
 ![](Dashboard_Image.PNG)
 
 ![Dashaboard_Image](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/fa59d23a-f5bf-4943-951c-17d7c6c4eada)
+
+
+
+
+
+
+
+
+
 
 
 
