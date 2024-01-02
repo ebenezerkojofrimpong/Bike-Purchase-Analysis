@@ -125,7 +125,8 @@ Excel was used for the data analysis phase of this project.
 The outcomes are effectively communicated with pertinent stakeholders. The execution stage of this project was carried out utilizing Excel for analysis for crafting insightful visual representations.
 
 Dashboards created with visualizations also present relevant information at a glance.
-      ![](Bike_Sales_Dashboard.PNG)
+  
+![](Bike_Sales_Dashboard.PNG)
 ---
 
 
