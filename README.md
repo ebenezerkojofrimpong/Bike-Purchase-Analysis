@@ -115,7 +115,24 @@ The outcomes are effectively communicated with pertinent stakeholders. The execu
 
 Dashboards created with visualizations also present relevant information at a glance.
       ![](Bike_Sales_Dashboard.PNG)
-      
+
+
+
+### **ACT**
+---
+Upon completion of data processing, analysis, and insight dissemination, the conclusive phase involves formulating a well-aligned course of action for the bike-share enterprise, congruent with its business goals and mission. My recommendations are as follows:
+
+1. Targeting high-income professional women as a prime segment for growth.
+The data indicates that income level strongly correlates with bike purchasing behavior. Since high earning men already purchase bikes at high rates, develop marketing campaigns specifically tailored to attract high-income women to purchase bikes to increase overall market share.
+
+2. Developing marketing campaigns and bike models catered specifically to middle-aged customers.
+Based on the finding that middle-aged individuals have the highest bike purchase rate compared to adolescents and the elderly there is a clear opportunity to double down on meeting their needs and preferences. I would suggest conducting market research to identify the key priorities and values of middle-aged bike customers, such as comfort, durability and performance.
+
+3. Developing a marketing campaign focused on high-earning professional women to further boost bike purchases within this income demographic.
+Based on the finding that upper income bracket women have 5.1% higher average earnings than men and already show a peak in bike purchases implies upper income women have untapped potential as a cycling consumer base. I suggest conducting additional research to uncover the priorities, values, and preferences of this demographic regarding bikes and cycling. Use those insights to shape product design, branding, advertising and partnerships tailored to affluent career-driven women.
+
+4. Targeting multi-modal transportation solutions for moderate 2-5 mile commutes to boost bike purchases.
+The data indicates short commutes already strongly prefer cycling, while long distances over 10 miles pose inherent biking adoption challenges. However, the 2-5 mile bracket appears to have untapped potential if bicycling can be made more feasible through strategic partnerships.
     
       
 
