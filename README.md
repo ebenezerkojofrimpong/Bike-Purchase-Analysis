@@ -84,12 +84,32 @@ Excel was used for the data analysis phase of this project.
 
    ![Average_Of_Income_Per_Gender](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/5dccff4d-0529-4eb8-8af0-cbf3ef98d48b)
 
---
+---
 
-2. The chart below
+
+2. The data reveals a clear downward trend in bike purchases as commute distances increase, attributed to the decreasing practicality of cycling over longer distances. Short commutes of 0-1 mile exhibit high bike purchase rates, suggesting a preference for cycling in easily navigable distances. Moderate commutes of 2-5 miles show fewer bike purchases, indicating decreased feasibility for walking or biking. Long commutes exceeding 10+ miles have low bike purchase rates, likely due to the challenges of covering such distances without the aid of car transportation.
+   
       ![](Customer_Commute)
 
       ![Customer_Commute](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/5838b796-db77-4c5b-9816-ebcc88835878)
+
+---
+
+3. Adolescents have low bike purchase rate
+4. There is a high peak in bike purchases for middle age
+5. The old aged have low bike purchase rate
+
+ ![](Customer_Age_Brackets)
+ 
+![Customer_Age_Brackets](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/765278be-9460-4373-8bd8-84cdf6625108)
+
+
+
+
+
+
+
+
 
 
 
