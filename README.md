@@ -4,6 +4,11 @@
 ---
 This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characterists and purchase decisions.
 
+The Google Data Analytics Profesional Certificate uses a methodology for data analysis which involves 6 phases:
+
+`ASK, PREPARE, PROCESS, ANALYSE, SHARE AND ACT`
+  
+We will resolve this case following this method.
 
 ### **ASK**
 ---
@@ -42,7 +47,7 @@ The data has been made available on Github at this [link](https://github.com/Ale
 For privacy purposes, the rider’s personally identifiable information has been excluded from the data.
 
 #### Data Organization
-The data used for this analysis is the past 12 months from November 2020 to October 2021. Each month contains hundreds of thousands of rows and 13 columns.
+The data used for this analysis is a bike purchase dataset which contains 13 Columns and 1027 Rows.
 
 #### Bias and Credibility
 The data satisfies the ROCCC standard which means that it is reliable, original, comprehensive, current, and cited.
