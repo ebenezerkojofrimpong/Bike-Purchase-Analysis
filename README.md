@@ -141,7 +141,7 @@ Throughout the duration of this project, I have effectively utilized Excel to ca
 
 ### REFERENCES
 
-Sagnik Chand: Google Data Analytics Capstone Project- Cyclistic Bike-share Case Stud [LINK](https://medium.com/@lesagnik/google-data-analytics-capstone-project-cyclistic-bike-share-case-study-d01df70748b)
+Sagnik Chand: Google Data Analytics Capstone Project- Cyclistic Bike-share Case Study [LINK](https://medium.com/@lesagnik/google-data-analytics-capstone-project-cyclistic-bike-share-case-study-d01df70748b)
       
 
 
