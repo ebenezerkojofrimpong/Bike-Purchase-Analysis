@@ -15,7 +15,7 @@ Three questions will guide the future marketing program:
    
     - Explore the relationship between age, gender, and income levels of customers and their likelihood to purchase a bike.
   
-    - Analyze if certain demographics are more inclined to make bike purchases and if there are specific preferences within different demographic segments.
+    - Analyze if certain demographics are more inclined to make bike purchases.
   
 3. How Does Customer Commute Distance Impact Bike Purchase Decisions?
 
@@ -133,7 +133,15 @@ Based on the finding that upper income bracket women have 5.1% higher average ea
 
 4. Targeting multi-modal transportation solutions for moderate 2-5 mile commutes to boost bike purchases.
 The data indicates short commutes already strongly prefer cycling, while long distances over 10 miles pose inherent biking adoption challenges. However, the 2-5 mile bracket appears to have untapped potential if bicycling can be made more feasible through strategic partnerships.
+
+
+### **CONCLUSION**
+Throughout the duration of this project, I have effectively utilized Excel to carry out tasks such as data cleansing, processing, analysis, and data visualization. These efforts have enabled me to extract valuable insights from the data in alignment with the principles of the Google Data Analytics Certification program.
     
+
+### REFERENCES
+
+Sagnik Chand: Google Data Analytics Capstone Project- Cyclistic Bike-share Case Stud [LINK](https://medium.com/@lesagnik/google-data-analytics-capstone-project-cyclistic-bike-share-case-study-d01df70748b)
       
 
 
