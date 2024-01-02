@@ -76,14 +76,11 @@ In this phase we analyze the data using statistical methods to find patterns, re
 
 Excel was used for the data analysis phase of this project.
 
-Outlined below are the key takeaways derived from the analysis of the data:
+**Outlined below are the key takeaways derived from the analysis of the data:**
 
-1. The chart shows that across all income levels, more men than women were buying bikes.
-2. Average income of males surpass that of females.
-3. People with higer income both Males and Females, were likely to purchase a bike.
-4. Females who earned an average income of over $55k were likely to purchase a bike.
-5. Males who earned an average income of over $56k were likely to purchase a bike.
-    
+1. The chart below reveals a consistent trend where more men than women buy bikes across all income levels. On average, males have higher incomes than females. It also indicates that individuals with higher incomes, both males and females, are more inclined to purchase bikes. Notably, females with an average income exceeding $55k and males with an average income surpassing $56k demonstrate a heightened likelihood of bike purchases.
+
+
 ![Average Of Income Per Gender Segmented by Purchased Bike](Average_Of_Income.PNG)
 
 ![Average_Of_Income_Per_Gender](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/5dccff4d-0529-4eb8-8af0-cbf3ef98d48b)
