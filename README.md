@@ -80,11 +80,16 @@ Excel was used for the data analysis phase of this project.
 
 1. The chart below reveals a consistent trend where more men than women buy bikes across all income levels. On average, males have higher incomes than females. It also indicates that individuals with higher incomes, both males and females, are more inclined to purchase bikes. Notably, females with an average income exceeding $55k and males with an average income surpassing $56k demonstrate a heightened likelihood of bike purchases.
 
+   ![](Average_Of_Income.PNG)
 
-![Average Of Income Per Gender Segmented by Purchased Bike](Average_Of_Income.PNG)
+   ![Average_Of_Income_Per_Gender](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/5dccff4d-0529-4eb8-8af0-cbf3ef98d48b)
 
-![Average_Of_Income_Per_Gender](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/5dccff4d-0529-4eb8-8af0-cbf3ef98d48b)
+--
 
+2. The chart below
+      ![](Customer_Commute)
+
+      ![Customer_Commute](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/5838b796-db77-4c5b-9816-ebcc88835878)
 
 
 
@@ -108,7 +113,7 @@ The dataset used in this analysis contains records of customer interactions, inc
 - Handled missing data and inconsistencies
 - Extracted relevant features for analysis
 
-![Dashboard](Dashboard_Image.PNG)
+![](Dashboard_Image.PNG)
 
 ![Dashaboard_Image](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/fa59d23a-f5bf-4943-951c-17d7c6c4eada)
 
