@@ -101,6 +101,14 @@ Excel was used for the data analysis phase of this project.
 
       ![Customer_Age_Brackets](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/765278be-9460-4373-8bd8-84cdf6625108)
 
+---
+
+4. In the upper income bracket, female bike buyers exhibit average earnings surpassing their male counterparts by 5.1%. Notably, there is a peak in women's bike purchases within this income range, implying that women in the upper income bracket could be an ideal target market.
+
+
+      ![](Average_Income_Distribution)
+
+      ![Average_Income_Distribution](https://github.com/ziraefrimpong1/Excel_Project_1/assets/154938134/8c824786-9c75-490a-88be-8ad122c003f2)
 
 
 
