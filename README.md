@@ -16,7 +16,7 @@ We will resolve this case following this method.
 ---
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
-Three questions will guide the future marketing program:
+Two questions will guide the future marketing program:
 
 1. What Demographic Factors Influence Bike Purchases?
    
