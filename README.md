@@ -6,7 +6,7 @@ This data analysis project aims to investigate the factors that influence whethe
 
 The Google Data Analytics Profesional Certificate uses a methodology for data analysis which involves 6 phases:
 
-`ASK, PREPARE, PROCESS, ANALYSE, SHARE AND ACT`
+`ASK, PREPARE, PROCESS, ANALYSE, SHARE AND ACT `
   
 We will resolve this case following this method.
 
@@ -24,7 +24,7 @@ Two questions will guide the future marketing program:
   
     - Analyze if certain demographics are more inclined to make bike purchases.
   
-3. How Does Customer Commute Distance Impact Bike Purchase Decisions?
+2. How Does Customer Commute Distance Impact Bike Purchase Decisions?
 
    - Is there a correlation between the length of the customer commute and the likelihood of making a bike purchase?
      
