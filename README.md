@@ -138,7 +138,7 @@ Upon completion of data processing, analysis, and insight dissemination, the con
 1. Targeting high-income professional women as a prime segment for growth.
 The data indicates that income level strongly correlates with bike purchasing behavior. Since high earning men already purchase bikes at high rates, develop marketing campaigns specifically tailored to attract high-income women to purchase bikes to increase overall market share.
 
-2. Developing marketing campaigns and bike models catered specifically to middle-aged customers.
+2. Developing marketing campaigns catered specifically to middle-aged customers.
 Based on the finding that middle-aged individuals have the highest bike purchase rate compared to adolescents and the elderly there is a clear opportunity to double down on meeting their needs and preferences. I would suggest conducting market research to identify the key priorities and values of middle-aged bike customers, such as comfort, durability and performance.
 
 3. Developing a marketing campaign focused on high-earning professional women to further boost bike purchases within this income demographic.
