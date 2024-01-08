@@ -11,10 +11,10 @@ The Google Data Analytics Profesional Certificate uses a methodology for data an
   
 We will resolve this case following this method.
 
---
+---
 
 ## **ASK**
----
+
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
 Two questions will guide the future marketing program:
@@ -39,11 +39,10 @@ Identify and understand the key factors influencing bike purchases to optimize m
   
 - **Executive Team**: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 
---
-
+---
 
 ## **PREPARE**
----
+
 Involves collecting data and information and ensuring it satisfies necessary parameters.
 
 ### Data Location, Licensing, and Privacy
@@ -60,10 +59,10 @@ The data satisfies the ROCCC standard which means that it is reliable, original,
 ### Data Limitations
 The dataset contained one null value that was deleted and hence not used in the analysis.
 
---
+---
 
 ## PROCESS
----
+
 This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
 
 Exel was used for the data processing phase of this project.
@@ -80,10 +79,10 @@ A summary of the cleaning and manipulation done to the data is presented below:
 2. Created a new column to extract day_of_week (1 = Sunday and 7 = Saturday) and changed datatype to General (Used the weekday() function for this task).
 3. Created a new column to extract the date start_date from date-time datatype (Used the int() function for this task).
 
---
+---
 
 ## **ANALYZE**
----
+
 In this phase we analyze the data using statistical methods to find patterns, relationships, and trends.
 
 Excel was used for the data analysis phase of this project.
@@ -122,17 +121,18 @@ Excel was used for the data analysis phase of this project.
 ---
 
 ## **SHARE**
----
+
 The outcomes are effectively communicated with pertinent stakeholders. The execution stage of this project was carried out utilizing Excel for analysis for crafting insightful visual representations.
 
 Dashboards created with visualizations also present relevant information at a glance.
   
 ![](Bike_Sales_Dashboard.PNG)
+
 ---
 
 
 ## **ACT**
----
+
 Upon completion of data processing, analysis, and insight dissemination, the conclusive phase involves formulating a well-aligned course of action for the bike-share enterprise, congruent with its business goals and mission. My recommendations are as follows:
 
 1. Targeting high-income professional women as a prime segment for growth.
@@ -147,11 +147,12 @@ Based on the finding that upper income bracket women have 5.1% higher average ea
 4. Targeting multi-modal transportation solutions for moderate 2-5 mile commutes to boost bike purchases.
 The data indicates short commutes already strongly prefer cycling, while long distances over 10 miles pose inherent biking adoption challenges. However, the 2-5 mile bracket appears to have untapped potential if bicycling can be made more feasible through strategic partnerships.
 
+---
 
 ## **CONCLUSION**
 Throughout the duration of this project, I have effectively utilized Excel to carry out tasks such as data cleansing, processing, analysis, and data visualization. These efforts have enabled me to extract valuable insights from the data in alignment with the principles of the Google Data Analytics Certification program.
     
-
+---
 ## REFERENCES
 
 Sagnik Chand: Google Data Analytics Capstone Project- Cyclistic Bike-share Case Study [LINK](https://medium.com/@lesagnik/google-data-analytics-capstone-project-cyclistic-bike-share-case-study-d01df70748b)
