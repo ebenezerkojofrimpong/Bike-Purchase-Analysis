@@ -2,7 +2,8 @@
 
 ## Project Overview
 ---
-This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characterists and purchase decisions.
+
+This project delves into the multifaceted landscape of consumer behavior to comprehensively understand the factors influencing bike purchases. Through meticulous data analysis, the endeavor aims to uncover key drivers, preferences, and trends that shape decision-making in the bike-buying process. The insights gained will inform targeted strategies, marketing approaches, and product offerings to enhance the organization's position in the market.
 
 The Google Data Analytics Profesional Certificate uses a methodology for data analysis which involves 6 phases:
 
